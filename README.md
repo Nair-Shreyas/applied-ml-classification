@@ -1,5 +1,7 @@
 # Applied ML: Entropy & Bank Term Deposit Classification
 
+![Project Overview](docs/images/1_project_overview.png)
+
 Two related notebooks on classification fundamentals and a full applied pipeline.
 
 ## `entropy_information_gain.ipynb`
@@ -14,6 +16,11 @@ An end-to-end classification pipeline predicting whether a bank client will subs
 - Evaluated on accuracy, precision, recall, and F1
 
 `bank.csv` (the UCI Bank Marketing dataset, 4,521 records) is bundled so the notebook runs standalone.
+
+### Results
+Random Forest and SVM (both tuned via GridSearchCV) reach ~95.5% accuracy, well above the baseline Decision Tree:
+
+![Model Comparison](docs/images/2_model_comparison.png)
 
 ## Tech
 Python, pandas, scikit-learn, imbalanced-learn (SMOTE)
