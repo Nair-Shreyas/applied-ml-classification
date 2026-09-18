@@ -13,5 +13,7 @@ An end-to-end classification pipeline predicting whether a bank client will subs
 - **GridSearchCV** for hyperparameter tuning
 - Evaluated on accuracy, precision, recall, and F1
 
+`bank.csv` (the UCI Bank Marketing dataset, 4,521 records) is bundled so the notebook runs standalone.
+
 ## Tech
 Python, pandas, scikit-learn, imbalanced-learn (SMOTE)
