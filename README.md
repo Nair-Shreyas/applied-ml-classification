@@ -11,7 +11,7 @@
 Two related notebooks on classification fundamentals and a full applied pipeline.
 
 ## `entropy_information_gain.ipynb`
-A from-scratch implementation of entropy and information gain — the math decision trees use to pick which feature to split on. Good for understanding what's happening under the hood before reaching for `sklearn`.
+A from-scratch implementation of entropy and information gain: the math decision trees use to pick which feature to split on. Good for understanding what's happening under the hood before reaching for `sklearn`.
 
 ## `bank_term_deposit_classification.ipynb`
 An end-to-end classification pipeline predicting whether a bank client will subscribe to a term deposit:
