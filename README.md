@@ -2,6 +2,12 @@
 
 ![Project Overview](docs/images/1_project_overview.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python: 3"/>
+  <img src="https://img.shields.io/badge/Runs_on-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Runs on: Google Colab"/>
+  <img src="https://img.shields.io/badge/Data-UCI_Bank_Marketing-c9440c?style=flat-square" alt="Data: UCI Bank Marketing"/>
+</p>
+
 Two related notebooks on classification fundamentals and a full applied pipeline.
 
 ## `entropy_information_gain.ipynb`
